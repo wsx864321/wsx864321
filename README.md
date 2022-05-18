@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+欢迎来到我的github，我是麦子割。
+
+![github stats](https://github-readme-stats.vercel.app/api?username=wsx864321&show_icons=true)
+
 <!--
 **wsx864321/wsx864321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
