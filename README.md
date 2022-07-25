@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-欢迎来到我的github，我是麦子割。
+欢迎来到我的github，我是麦子割，一个Go&PHP语言开发者。
 
 ### github stats
 
