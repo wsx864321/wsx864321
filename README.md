@@ -4,7 +4,8 @@
 
 ### github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsx864321)](https://github.com/wsx864321/wsx864321)
+[![GitHub followers](https://img.shields.io/github/followers/wsx864321?style=flat&label=Followers&color=blue)](https://github.com/wsx864321)
+[![GitHub stars](https://img.shields.io/github/stars/wsx864321?style=flat&label=Stars&color=green)](https://github.com/wsx864321/wsx864321)
 
 <!--
 **wsx864321/wsx864321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
