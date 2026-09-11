@@ -4,7 +4,7 @@
 
 ### 我的技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=php,go,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,go)](https://skillicons.dev)
 
 ### github stats
 
